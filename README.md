@@ -23,4 +23,14 @@ chmod +x install.sh
 ./install.sh
 ```
 
+# Suggestion
+<p>Please use it wisely and if you know that how to fix network related problems on</p>
+<p>Your testing system</p>
+
+# What to do when stuck
+**Run  the following command in your terminal**
+
+#### <code>systemctl stop NetworkManager</code>
+**This will stop the network manager don't worry**
+#### <code>systemctl restart NetworkManager</code>
 
