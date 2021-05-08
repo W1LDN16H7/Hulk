@@ -35,6 +35,8 @@ chmod +x install.sh
 #### <code>systemctl stop NetworkManager</code>
 **This will stop the network manager don't worry**
 #### <code>systemctl restart NetworkManager</code>
+**This will restart the network-manager now you're good to go**
+
 
 # TODOs
 <p>Make it advance with new concepts and add more features</p>
